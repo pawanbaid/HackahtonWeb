@@ -14,6 +14,7 @@
         <link rel="stylesheet" href="/resources/vendors/nice-select/css/nice-select.css">
         <!-- main css -->
         <link rel="stylesheet" href="/resources/css/style.css">
+        <link rel="stylesheet" href="/resources/scss_compiled/style.css">
         <link rel="stylesheet" href="/resources/css/responsive.css">
     </head>
     <body>
@@ -341,28 +342,28 @@
 						<h3 class="title_color">Image Gallery</h3>
 						<div class="row gallery-item">
 							<div class="col-md-4">
-								<a href="/resources/img/elements/g1.jpg" class="img-gal"><div class="single-gallery-image" style="background: url(img/elements/g1.jpg);"></div></a>
+								<a href="/resources/img/elements/g1.jpg" class="img-gal"><div class="single-gallery-image" style="background: url(/resources/img/elements/g1.jpg);"></div></a>
 							</div>
 							<div class="col-md-4">
-								<a href="/resources/img/elements/g2.jpg" class="img-gal"><div class="single-gallery-image" style="background: url(img/elements/g2.jpg);"></div></a>
+								<a href="/resources/img/elements/g2.jpg" class="img-gal"><div class="single-gallery-image" style="background: url(/resources/img/elements/g2.jpg);"></div></a>
 							</div>
 							<div class="col-md-4">
-								<a href="/resources/img/elements/g3.jpg" class="img-gal"><div class="single-gallery-image" style="background: url(img/elements/g3.jpg);"></div></a>
+								<a href="/resources/img/elements/g3.jpg" class="img-gal"><div class="single-gallery-image" style="background: url(/resources/img/elements/g3.jpg);"></div></a>
 							</div>
 							<div class="col-md-6">
-								<a href="/resources/img/elements/g4.jpg" class="img-gal"><div class="single-gallery-image" style="background: url(img/elements/g4.jpg);"></div></a>
+								<a href="/resources/img/elements/g4.jpg" class="img-gal"><div class="single-gallery-image" style="background: url(/resources/img/elements/g4.jpg);"></div></a>
 							</div>
 							<div class="col-md-6">
-								<a href="/resources/img/elements/g5.jpg" class="img-gal"><div class="single-gallery-image" style="background: url(img/elements/g5.jpg);"></div></a>
+								<a href="/resources/img/elements/g5.jpg" class="img-gal"><div class="single-gallery-image" style="background: url(/resources/img/elements/g5.jpg);"></div></a>
 							</div>
 							<div class="col-md-4">
-								<a href="/resources/img/elements/g6.jpg" class="img-gal"><div class="single-gallery-image" style="background: url(img/elements/g6.jpg);"></div></a>
+								<a href="/resources/img/elements/g6.jpg" class="img-gal"><div class="single-gallery-image" style="background: url(/resources/img/elements/g6.jpg);"></div></a>
 							</div>
 							<div class="col-md-4">
-								<a href="/resources/img/elements/g7.jpg" class="img-gal"><div class="single-gallery-image" style="background: url(img/elements/g7.jpg);"></div></a>
+								<a href="/resources/img/elements/g7.jpg" class="img-gal"><div class="single-gallery-image" style="background: url(/resources/img/elements/g7.jpg);"></div></a>
 							</div>
 							<div class="col-md-4">
-								<a href="/resources/img/elements/g8.jpg" class="img-gal"><div class="single-gallery-image" style="background: url(img/elements/g8.jpg);"></div></a>
+								<a href="/resources/img/elements/g8.jpg" class="img-gal"><div class="single-gallery-image" style="background: url(/resources/img/elements/g8.jpg);"></div></a>
 							</div>
 						</div>
 					</div>
@@ -680,16 +681,6 @@
 				</div>
 			</div>
 
-			<div class="footer-bottom">
-				<div class="container">
-					<div class="row d-flex">
-						<p class="col-lg-12 footer-text text-center">
-							<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
-<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
-					</div>
-				</div>
-			</div>
 		</footer>
 		<!--================ End footer Area  =================-->
         

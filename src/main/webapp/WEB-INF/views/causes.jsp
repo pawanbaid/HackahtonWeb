@@ -14,6 +14,7 @@
         <link rel="stylesheet" href="/resources/vendors/nice-select/css/nice-select.css">
         <!-- main css -->
         <link rel="stylesheet" href="/resources/css/style.css">
+        <link rel="stylesheet" href="/resources/scss_compiled/style.css">
         <link rel="stylesheet" href="/resources/css/responsive.css">
     </head>
 <body>
@@ -87,7 +88,7 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="single_causes">
                         <h4>Give Donation</h4>
-                        <img src="img/causes/c1.png" alt="">
+                        <img src="/resources/img/causes/c1.png" alt="">
                         <p>
                             It you're. Was called you're fowl grass lesser land together waters beast darkness earth land whose male all moveth fruitful.
                         </p>
@@ -96,7 +97,7 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="single_causes">
                         <h4>Give Inspiration</h4>
-                        <img src="img/causes/c2.png" alt="">
+                        <img src="/resources/img/causes/c2.png" alt="">
                         <p>
                             It you're. Was called you're fowl grass lesser land together waters beast darkness earth land whose male all moveth fruitful.
                         </p>
@@ -105,7 +106,7 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="single_causes">
                         <h4>Become Bolunteer</h4>
-                        <img src="img/causes/c3.png" alt="">
+                        <img src="/resources/img/causes/c3.png" alt="">
                         <p>
                             It you're. Was called you're fowl grass lesser land together waters beast darkness earth land whose male all moveth fruitful.
                         </p>
@@ -293,16 +294,7 @@
             </div>
         </div>
 
-        <div class="footer-bottom">
-            <div class="container">
-                <div class="row d-flex">
-                    <p class="col-lg-12 footer-text text-center">
-                        <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
-<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
-                </div>
-            </div>
-        </div>
+
     </footer>
     <!--================ End footer Area  =================-->  
         

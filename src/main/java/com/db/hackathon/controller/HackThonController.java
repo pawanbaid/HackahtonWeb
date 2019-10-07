@@ -58,11 +58,4 @@ public class HackThonController {
       return "event-details";
    }
 
-
-
-   @PostMapping("/hello")
-   public String sayHello(@RequestParam("name") String name, Model model) {
-      model.addAttribute("name", name);
-      return "hello";
-   }
 }
