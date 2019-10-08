@@ -1,7 +1,7 @@
  FROM java:8
   WORKDIR /
   RUN ls -ltra
-  COPY ./target/hackathon.jar  /
+  COPY ./target/hackathon-0.0.1-SNAPSHOT.war  /
   RUN ls -ltra
   EXPOSE 80
-  CMD ["java","-jar","hackathon.jar"]
+  CMD ["java","-jar","hackathon-0.0.1-SNAPSHOT.war"]

@@ -23,9 +23,5 @@ http://www.springframework.org/schema/util/spring-util-3.0.xsd
         <property name="suffix" value=".jsp"/>
     </bean>
 
-    <bean name="shape" class="shapes.Shape">
-        <constructor-arg index="0" value ="12" />
-        <constructor-arg index="1" value ="2" />
-    </bean>
-    <import resource="spring-dao.xml"/>
+
 </beans>

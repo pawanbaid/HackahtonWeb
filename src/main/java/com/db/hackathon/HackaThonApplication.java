@@ -2,10 +2,17 @@ package com.db.hackathon;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.boot.builder.SpringApplicationBuilder;
+import org.springframework.boot.web.support.SpringBootServletInitializer;
 
 @SpringBootApplication
-public class HackaThonApplication {
+public class HackaThonApplication extends SpringBootServletInitializer {
    public static void main(String[] args) {
       SpringApplication.run(HackaThonApplication.class, args);
+   }
+
+   @Override
+   protected SpringApplicationBuilder configure(SpringApplicationBuilder builder) {
+      return builder.sources(HackaThonApplication.class);
    }
 }
