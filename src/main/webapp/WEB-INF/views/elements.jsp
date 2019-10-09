@@ -4,18 +4,18 @@
         <!-- Required meta tags -->
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <link rel="icon" href="/resources/img/favicon.png" type="image/png">
+        <link rel="icon" href="static/img/favicon.png" type="image/png">
         <title>Elements</title>
         <!-- Bootstrap CSS -->
-        <link rel="stylesheet" href="/resources/css/bootstrap.css">
-        <link rel="stylesheet" href="/resources/vendors/linericon/style.css">
-        <link rel="stylesheet" href="/resources/css/font-awesome.min.css">
-        <link rel="stylesheet" href="/resources/vendors/lightbox/simpleLightbox.css">
-        <link rel="stylesheet" href="/resources/vendors/nice-select/css/nice-select.css">
+        <link rel="stylesheet" href="static/css/bootstrap.css">
+        <link rel="stylesheet" href="static/vendors/linericon/style.css">
+        <link rel="stylesheet" href="static/css/font-awesome.min.css">
+        <link rel="stylesheet" href="static/vendors/lightbox/simpleLightbox.css">
+        <link rel="stylesheet" href="static/vendors/nice-select/css/nice-select.css">
         <!-- main css -->
-        <link rel="stylesheet" href="/resources/css/style.css">
-        <link rel="stylesheet" href="/resources/scss_compiled/style.css">
-        <link rel="stylesheet" href="/resources/css/responsive.css">
+        <link rel="stylesheet" href="static/css/style.css">
+        <link rel="stylesheet" href="static/scss_compiled/style.css">
+        <link rel="stylesheet" href="static/css/responsive.css">
     </head>
     <body>
         
@@ -26,7 +26,7 @@
 					<nav class="navbar navbar-expand-lg navbar-light">
 						<div class="container">
 							<!-- Brand and toggle get grouped for better mobile display -->
-							<a class="navbar-brand logo_h" href="index"><img src="/resources/img/logo.png" alt=""></a>
+							<a class="navbar-brand logo_h" href="index"><img src="static/img/logo.png" alt=""></a>
 							<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 								<span class="icon-bar"></span>
 								<span class="icon-bar"></span>
@@ -193,7 +193,7 @@
 						<h3 class="mb-30 title_color">Left Aligned</h3>
 						<div class="row">
 							<div class="col-md-3">
-								<img src="/resources/img/elements/d.jpg" alt="" class="img-fluid">
+								<img src="static/img/elements/d.jpg" alt="" class="img-fluid">
 							</div>
 							<div class="col-md-9 mt-sm-20 left-align-p">
 								<p>Recently, the US Federal government banned online casinos from operating in America by making it illegal to transfer money to them through any US bank or payment system. As a result of this law, most of the popular online casino networks such as Party Gaming and PlayTech left the United States. Overnight, online casino players found themselves being chased by the Federal government. But, after a fortnight, the online casino industry came up with a solution and new online casinos started taking root. These began to operate under a different business umbrella, and by doing that, rendered the transfer of money to and from them legal. A major part of this was enlisting electronic banking systems that would accept this new clarification and start doing business with me. Listed in this article are the electronic banking systems that accept players from the United States that wish to play in online casinos.</p>
@@ -208,7 +208,7 @@
 								<p class="text-right">Before we discuss all of the things that could be affecting your PC’s performance, let’s talk a little about what symptoms</p>
 							</div>
 							<div class="col-md-3">
-								<img src="/resources/img/elements/d.jpg" alt="" class="img-fluid">
+								<img src="static/img/elements/d.jpg" alt="" class="img-fluid">
 							</div>
 						</div>
 					</div>
@@ -257,7 +257,7 @@
 								</div>
 								<div class="table-row">
 									<div class="serial">01</div>
-									<div class="country"> <img src="/resources/img/elements/f1.jpg" alt="flag">Canada</div>
+									<div class="country"> <img src="static/img/elements/f1.jpg" alt="flag">Canada</div>
 									<div class="visit">645032</div>
 									<div class="percentage">
 										<div class="progress">
@@ -267,7 +267,7 @@
 								</div>
 								<div class="table-row">
 									<div class="serial">02</div>
-									<div class="country"> <img src="/resources/img/elements/f2.jpg" alt="flag">Canada</div>
+									<div class="country"> <img src="static/img/elements/f2.jpg" alt="flag">Canada</div>
 									<div class="visit">645032</div>
 									<div class="percentage">
 										<div class="progress">
@@ -277,7 +277,7 @@
 								</div>
 								<div class="table-row">
 									<div class="serial">03</div>
-									<div class="country"> <img src="/resources/img/elements/f3.jpg" alt="flag">Canada</div>
+									<div class="country"> <img src="static/img/elements/f3.jpg" alt="flag">Canada</div>
 									<div class="visit">645032</div>
 									<div class="percentage">
 										<div class="progress">
@@ -287,7 +287,7 @@
 								</div>
 								<div class="table-row">
 									<div class="serial">04</div>
-									<div class="country"> <img src="/resources/img/elements/f4.jpg" alt="flag">Canada</div>
+									<div class="country"> <img src="static/img/elements/f4.jpg" alt="flag">Canada</div>
 									<div class="visit">645032</div>
 									<div class="percentage">
 										<div class="progress">
@@ -297,7 +297,7 @@
 								</div>
 								<div class="table-row">
 									<div class="serial">05</div>
-									<div class="country"> <img src="/resources/img/elements/f5.jpg" alt="flag">Canada</div>
+									<div class="country"> <img src="static/img/elements/f5.jpg" alt="flag">Canada</div>
 									<div class="visit">645032</div>
 									<div class="percentage">
 										<div class="progress">
@@ -307,7 +307,7 @@
 								</div>
 								<div class="table-row">
 									<div class="serial">06</div>
-									<div class="country"> <img src="/resources/img/elements/f6.jpg" alt="flag">Canada</div>
+									<div class="country"> <img src="static/img/elements/f6.jpg" alt="flag">Canada</div>
 									<div class="visit">645032</div>
 									<div class="percentage">
 										<div class="progress">
@@ -317,7 +317,7 @@
 								</div>
 								<div class="table-row">
 									<div class="serial">07</div>
-									<div class="country"> <img src="/resources/img/elements/f7.jpg" alt="flag">Canada</div>
+									<div class="country"> <img src="static/img/elements/f7.jpg" alt="flag">Canada</div>
 									<div class="visit">645032</div>
 									<div class="percentage">
 										<div class="progress">
@@ -327,7 +327,7 @@
 								</div>
 								<div class="table-row">
 									<div class="serial">08</div>
-									<div class="country"> <img src="/resources/img/elements/f8.jpg" alt="flag">Canada</div>
+									<div class="country"> <img src="static/img/elements/f8.jpg" alt="flag">Canada</div>
 									<div class="visit">645032</div>
 									<div class="percentage">
 										<div class="progress">
@@ -342,28 +342,28 @@
 						<h3 class="title_color">Image Gallery</h3>
 						<div class="row gallery-item">
 							<div class="col-md-4">
-								<a href="/resources/img/elements/g1.jpg" class="img-gal"><div class="single-gallery-image" style="background: url(/resources/img/elements/g1.jpg);"></div></a>
+								<a href="static/img/elements/g1.jpg" class="img-gal"><div class="single-gallery-image" style="background: url(static/img/elements/g1.jpg);"></div></a>
 							</div>
 							<div class="col-md-4">
-								<a href="/resources/img/elements/g2.jpg" class="img-gal"><div class="single-gallery-image" style="background: url(/resources/img/elements/g2.jpg);"></div></a>
+								<a href="static/img/elements/g2.jpg" class="img-gal"><div class="single-gallery-image" style="background: url(static/img/elements/g2.jpg);"></div></a>
 							</div>
 							<div class="col-md-4">
-								<a href="/resources/img/elements/g3.jpg" class="img-gal"><div class="single-gallery-image" style="background: url(/resources/img/elements/g3.jpg);"></div></a>
+								<a href="static/img/elements/g3.jpg" class="img-gal"><div class="single-gallery-image" style="background: url(static/img/elements/g3.jpg);"></div></a>
 							</div>
 							<div class="col-md-6">
-								<a href="/resources/img/elements/g4.jpg" class="img-gal"><div class="single-gallery-image" style="background: url(/resources/img/elements/g4.jpg);"></div></a>
+								<a href="static/img/elements/g4.jpg" class="img-gal"><div class="single-gallery-image" style="background: url(static/img/elements/g4.jpg);"></div></a>
 							</div>
 							<div class="col-md-6">
-								<a href="/resources/img/elements/g5.jpg" class="img-gal"><div class="single-gallery-image" style="background: url(/resources/img/elements/g5.jpg);"></div></a>
+								<a href="static/img/elements/g5.jpg" class="img-gal"><div class="single-gallery-image" style="background: url(static/img/elements/g5.jpg);"></div></a>
 							</div>
 							<div class="col-md-4">
-								<a href="/resources/img/elements/g6.jpg" class="img-gal"><div class="single-gallery-image" style="background: url(/resources/img/elements/g6.jpg);"></div></a>
+								<a href="static/img/elements/g6.jpg" class="img-gal"><div class="single-gallery-image" style="background: url(static/img/elements/g6.jpg);"></div></a>
 							</div>
 							<div class="col-md-4">
-								<a href="/resources/img/elements/g7.jpg" class="img-gal"><div class="single-gallery-image" style="background: url(/resources/img/elements/g7.jpg);"></div></a>
+								<a href="static/img/elements/g7.jpg" class="img-gal"><div class="single-gallery-image" style="background: url(static/img/elements/g7.jpg);"></div></a>
 							</div>
 							<div class="col-md-4">
-								<a href="/resources/img/elements/g8.jpg" class="img-gal"><div class="single-gallery-image" style="background: url(/resources/img/elements/g8.jpg);"></div></a>
+								<a href="static/img/elements/g8.jpg" class="img-gal"><div class="single-gallery-image" style="background: url(static/img/elements/g8.jpg);"></div></a>
 							</div>
 						</div>
 					</div>
@@ -638,12 +638,12 @@
 							<div class="single-footer-widget instafeed">
 								<h4 class="footer_title">Gallery</h6>
 								<ul class="list instafeed d-flex flex-wrap">
-									<li><img src="/resources/img/gallery/g1.jpg" alt=""></li>
-									<li><img src="/resources/img/gallery/g2.jpg" alt=""></li>
-									<li><img src="/resources/img/gallery/g3.jpg" alt=""></li>
-									<li><img src="/resources/img/gallery/g4.jpg" alt=""></li>
-									<li><img src="/resources/img/gallery/g5.jpg" alt=""></li>
-									<li><img src="/resources/img/gallery/g6.jpg" alt=""></li>
+									<li><img src="static/img/gallery/g1.jpg" alt=""></li>
+									<li><img src="static/img/gallery/g2.jpg" alt=""></li>
+									<li><img src="static/img/gallery/g3.jpg" alt=""></li>
+									<li><img src="static/img/gallery/g4.jpg" alt=""></li>
+									<li><img src="static/img/gallery/g5.jpg" alt=""></li>
+									<li><img src="static/img/gallery/g6.jpg" alt=""></li>
 								</ul>
 							</div>
 						</div>
@@ -689,15 +689,15 @@
         
         <!-- Optional JavaScript -->
         <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-        <script src="/resources/js/jquery-3.2.1.min.js"></script>
-        <script src="/resources/js/popper.js"></script>
-        <script src="/resources/js/bootstrap.min.js"></script>
-        <script src="/resources/js/stellar.js"></script>
-        <script src="/resources/vendors/lightbox/simpleLightbox.min.js"></script>
-        <script src="/resources/vendors/nice-select/js/jquery.nice-select.min.js"></script>
-        <script src="/resources/vendors/jquery-ui/jquery-ui.js"></script>
-        <script src="/resources/js/jquery.ajaxchimp.min.js"></script>
-        <script src="/resources/js/mail-script.js"></script>
-        <script src="/resources/js/theme.js"></script>
+        <script src="static/js/jquery-3.2.1.min.js"></script>
+        <script src="static/js/popper.js"></script>
+        <script src="static/js/bootstrap.min.js"></script>
+        <script src="static/js/stellar.js"></script>
+        <script src="static/vendors/lightbox/simpleLightbox.min.js"></script>
+        <script src="static/vendors/nice-select/js/jquery.nice-select.min.js"></script>
+        <script src="static/vendors/jquery-ui/jquery-ui.js"></script>
+        <script src="static/js/jquery.ajaxchimp.min.js"></script>
+        <script src="static/js/mail-script.js"></script>
+        <script src="static/js/theme.js"></script>
     </body>
 </html>

@@ -4,18 +4,18 @@
         <!-- Required meta tags -->
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <link rel="icon" href="/resources/img/favicon.png" type="image/png">
-        <title>Blog</title>/resources/
+        <link rel="icon" href="static/img/favicon.png" type="image/png">
+        <title>Blog</title>static/
         <!-- Bootstrap CSS -->
-        <link rel="stylesheet" href="/resources/css/bootstrap.css">
-        <link rel="stylesheet" href="/resources/vendors/linericon/style.css">
-        <link rel="stylesheet" href="/resources/css/font-awesome.min.css">
-        <link rel="stylesheet" href="/resources/vendors/lightbox/simpleLightbox.css">
-        <link rel="stylesheet" href="/resources/vendors/nice-select/css/nice-select.css">
+        <link rel="stylesheet" href="static/css/bootstrap.css">
+        <link rel="stylesheet" href="static/vendors/linericon/style.css">
+        <link rel="stylesheet" href="static/css/font-awesome.min.css">
+        <link rel="stylesheet" href="static/vendors/lightbox/simpleLightbox.css">
+        <link rel="stylesheet" href="static/vendors/nice-select/css/nice-select.css">
         <!-- main css -->
-        <link rel="stylesheet" href="/resources/css/style.css">
-        <link rel="stylesheet" href="/resources/scss_compiled/style.css">
-        <link rel="stylesheet" href="/resources/css/responsive.css">
+        <link rel="stylesheet" href="static/css/style.css">
+        <link rel="stylesheet" href="static/scss_compiled/style.css">
+        <link rel="stylesheet" href="static/css/responsive.css">
     </head>
     <body>
         
@@ -26,7 +26,7 @@
                     <nav class="navbar navbar-expand-lg navbar-light">
                         <div class="container">
                             <!-- Brand and toggle get grouped for better mobile display -->
-                            <a class="navbar-brand logo_h" href="index"><img src="/resources/img/logo.png" alt=""></a>
+                            <a class="navbar-brand logo_h" href="index"><img src="static/img/logo.png" alt=""></a>
                             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                                 <span class="icon-bar"></span>
                                 <span class="icon-bar"></span>
@@ -83,7 +83,7 @@
                 <div class="row">
                     <div class="col-lg-4">
                         <div class="categories_post">
-                            <img src="/resources/img/blog/cat-post/cat-post-3.jpg" alt="post">
+                            <img src="static/img/blog/cat-post/cat-post-3.jpg" alt="post">
                             <div class="categories_details">
                                 <div class="categories_text">
                                     <a href="single-blog"><h5>Social Life</h5></a>
@@ -95,7 +95,7 @@
                     </div>
                     <div class="col-lg-4">
                         <div class="categories_post">
-                            <img src="/resources/img/blog/cat-post/cat-post-2.jpg" alt="post">
+                            <img src="static/img/blog/cat-post/cat-post-2.jpg" alt="post">
                             <div class="categories_details">
                                 <div class="categories_text">
                                     <a href="single-blog"><h5>Politics</h5></a>
@@ -107,7 +107,7 @@
                     </div>
                     <div class="col-lg-4">
                         <div class="categories_post">
-                            <img src="/resources/img/blog/cat-post/cat-post-1.jpg" alt="post">
+                            <img src="static/img/blog/cat-post/cat-post-1.jpg" alt="post">
                             <div class="categories_details">
                                 <div class="categories_text">
                                     <a href="single-blog"><h5>Food</h5></a>
@@ -147,7 +147,7 @@
                                </div>
                                 <div class="col-md-9">
                                     <div class="blog_post">
-                                        <img src="/resources/img/blog/main-blog/m-blog-1.jpg" alt="">
+                                        <img src="static/img/blog/main-blog/m-blog-1.jpg" alt="">
                                         <div class="blog_details">
                                             <a href="single-blog"><h2>Astronomy Binoculars A Great Alternative</h2></a>
                                             <p>MCSE boot camps have its supporters and its detractors. Some people do not understand why you should have to spend money on boot camp when you can get the MCSE study materials yourself at a fraction.</p>
@@ -175,7 +175,7 @@
                                </div>
                                 <div class="col-md-9">
                                     <div class="blog_post">
-                                        <img src="/resources/img/blog/main-blog/m-blog-2.jpg" alt="">
+                                        <img src="static/img/blog/main-blog/m-blog-2.jpg" alt="">
                                         <div class="blog_details">
                                             <a href="single-blog"><h2>The Basics Of Buying A Telescope</h2></a>
                                             <p>MCSE boot camps have its supporters and its detractors. Some people do not understand why you should have to spend money on boot camp when you can get the MCSE study materials yourself at a fraction.</p>
@@ -203,7 +203,7 @@
                                </div>
                                 <div class="col-md-9">
                                     <div class="blog_post">
-                                        <img src="/resources/img/blog/main-blog/m-blog-3.jpg" alt="">
+                                        <img src="static/img/blog/main-blog/m-blog-3.jpg" alt="">
                                         <div class="blog_details">
                                             <a href="single-blog"><h2>The Glossary Of Telescopes</h2></a>
                                             <p>MCSE boot camps have its supporters and its detractors. Some people do not understand why you should have to spend money on boot camp when you can get the MCSE study materials yourself at a fraction.</p>
@@ -231,7 +231,7 @@
                                </div>
                                 <div class="col-md-9">
                                     <div class="blog_post">
-                                        <img src="/resources/img/blog/main-blog/m-blog-4.jpg" alt="">
+                                        <img src="static/img/blog/main-blog/m-blog-4.jpg" alt="">
                                         <div class="blog_details">
                                             <a href="single-blog"><h2>The Night Sky</h2></a>
                                             <p>MCSE boot camps have its supporters and its detractors. Some people do not understand why you should have to spend money on boot camp when you can get the MCSE study materials yourself at a fraction.</p>
@@ -259,7 +259,7 @@
                                </div>
                                 <div class="col-md-9">
                                     <div class="blog_post">
-                                        <img src="/resources/img/blog/main-blog/m-blog-5.jpg" alt="">
+                                        <img src="static/img/blog/main-blog/m-blog-5.jpg" alt="">
                                         <div class="blog_details">
                                             <a href="single-blog"><h2>Telescopes 101</h2></a>
                                             <p>MCSE boot camps have its supporters and its detractors. Some people do not understand why you should have to spend money on boot camp when you can get the MCSE study materials yourself at a fraction.</p>
@@ -305,7 +305,7 @@
                                 <div class="br"></div>
                             </aside>
                             <aside class="single_sidebar_widget author_widget">
-                                <img class="author_img rounded-circle" src="/resources/img/blog/author.png" alt="">
+                                <img class="author_img rounded-circle" src="static/img/blog/author.png" alt="">
                                 <h4>Charlie Barber</h4>
                                 <p>Senior blog writer</p>
                                 <div class="social_icon">
@@ -320,28 +320,28 @@
                             <aside class="single_sidebar_widget popular_post_widget">
                                 <h3 class="widget_title">Popular Posts</h3>
                                 <div class="media post_item">
-                                    <img src="/resources/img/blog/popular-post/post1.jpg" alt="post">
+                                    <img src="static/img/blog/popular-post/post1.jpg" alt="post">
                                     <div class="media-body">
                                         <a href="single-blog"><h3>Space The Final Frontier</h3></a>
                                         <p>02 Hours ago</p>
                                     </div>
                                 </div>
                                 <div class="media post_item">
-                                    <img src="/resources/img/blog/popular-post/post2.jpg" alt="post">
+                                    <img src="static/img/blog/popular-post/post2.jpg" alt="post">
                                     <div class="media-body">
                                         <a href="single-blog"><h3>The Amazing Hubble</h3></a>
                                         <p>02 Hours ago</p>
                                     </div>
                                 </div>
                                 <div class="media post_item">
-                                    <img src="/resources/img/blog/popular-post/post3.jpg" alt="post">
+                                    <img src="static/img/blog/popular-post/post3.jpg" alt="post">
                                     <div class="media-body">
                                         <a href="single-blog"><h3>Astronomy Or Astrology</h3></a>
                                         <p>03 Hours ago</p>
                                     </div>
                                 </div>
                                 <div class="media post_item">
-                                    <img src="/resources/img/blog/popular-post/post4.jpg" alt="post">
+                                    <img src="static/img/blog/popular-post/post4.jpg" alt="post">
                                     <div class="media-body">
                                         <a href="single-blog"><h3>Asteroids telescope</h3></a>
                                         <p>01 Hours ago</p>
@@ -350,7 +350,7 @@
                                 <div class="br"></div>
                             </aside>
                             <aside class="single_sidebar_widget ads_widget">
-                                <a href="#"><img class="img-fluid" src="/resources/img/blog/add.jpg" alt=""></a>
+                                <a href="#"><img class="img-fluid" src="static/img/blog/add.jpg" alt=""></a>
                                 <div class="br"></div>
                             </aside>
                             <aside class="single_sidebar_widget post_category_widget">
@@ -477,12 +477,12 @@
                             <div class="single-footer-widget instafeed">
                                 <h4 class="footer_title">Gallery</h6>
                                 <ul class="list instafeed d-flex flex-wrap">
-                                    <li><img src="/resources/img/gallery/g1.jpg" alt=""></li>
-                                    <li><img src="/resources/img/gallery/g2.jpg" alt=""></li>
-                                    <li><img src="/resources/img/gallery/g3.jpg" alt=""></li>
-                                    <li><img src="/resources/img/gallery/g4.jpg" alt=""></li>
-                                    <li><img src="/resources/img/gallery/g5.jpg" alt=""></li>
-                                    <li><img src="/resources/img/gallery/g6.jpg" alt=""></li>
+                                    <li><img src="static/img/gallery/g1.jpg" alt=""></li>
+                                    <li><img src="static/img/gallery/g2.jpg" alt=""></li>
+                                    <li><img src="static/img/gallery/g3.jpg" alt=""></li>
+                                    <li><img src="static/img/gallery/g4.jpg" alt=""></li>
+                                    <li><img src="static/img/gallery/g5.jpg" alt=""></li>
+                                    <li><img src="static/img/gallery/g6.jpg" alt=""></li>
                                 </ul>
                             </div>
                         </div>
@@ -528,14 +528,14 @@
         
         <!-- Optional JavaScript -->
         <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-        <script src="/resources/js/jquery-3.2.1.min.js"></script>
-        <script src="/resources/js/popper.js"></script>
-        <script src="/resources/js/bootstrap.min.js"></script>
-        <script src="/resources/js/stellar.js"></script>
-        <script src="/resources/vendors/lightbox/simpleLightbox.min.js"></script>
-        <script src="/resources/vendors/nice-select/js/jquery.nice-select.min.js"></script>
-        <script src="/resources/js/jquery.ajaxchimp.min.js"></script>
-        <script src="/resources/js/mail-script.js"></script>
-        <script src="/resources/js/theme.js"></script>
+        <script src="static/js/jquery-3.2.1.min.js"></script>
+        <script src="static/js/popper.js"></script>
+        <script src="static/js/bootstrap.min.js"></script>
+        <script src="static/js/stellar.js"></script>
+        <script src="static/vendors/lightbox/simpleLightbox.min.js"></script>
+        <script src="static/vendors/nice-select/js/jquery.nice-select.min.js"></script>
+        <script src="static/js/jquery.ajaxchimp.min.js"></script>
+        <script src="static/js/mail-script.js"></script>
+        <script src="static/js/theme.js"></script>
     </body>
 </html>

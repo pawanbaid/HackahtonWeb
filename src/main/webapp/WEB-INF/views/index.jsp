@@ -4,20 +4,20 @@
         <!-- Required meta tags -->
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <link rel="icon" href="/resources/img/favicon.png" type="image/png">
+        <link rel="icon" href="static/img/favicon.png" type="image/png">
         <title>Seelife Charity</title>
         <!-- Bootstrap CSS -->
-        <link rel="stylesheet" href="/resources/css/bootstrap.css">
-        <link rel="stylesheet" href="/resources/vendors/linericon/style.css">
-        <link rel="stylesheet" href="/resources/css/font-awesome.min.css">
-        <link rel="stylesheet" href="/resources/vendors/lightbox/simpleLightbox.css">
-        <link rel="stylesheet" href="/resources/vendors/nice-select/css/nice-select.css">
+        <link rel="stylesheet" href="static/css/bootstrap.css">
+        <link rel="stylesheet" href="static/vendors/linericon/style.css">
+        <link rel="stylesheet" href="static/css/font-awesome.min.css">
+        <link rel="stylesheet" href="static/vendors/lightbox/simpleLightbox.css">
+        <link rel="stylesheet" href="static/vendors/nice-select/css/nice-select.css">
         <!-- main css -->
-        <link rel="stylesheet" href="/resources/css/style.css">
+        <link rel="stylesheet" href="static/css/style.css">
         
-         <link rel="stylesheet" href="/resources/scss_compiled/style.css">
+         <link rel="stylesheet" href="static/scss_compiled/style.css">
          
-        <link rel="stylesheet" href="/resources/css/responsive.css">
+        <link rel="stylesheet" href="static/css/responsive.css">
     </head>
 <body>
 
@@ -28,7 +28,7 @@
 				<nav class="navbar navbar-expand-lg navbar-light">
 					<div class="container">
 						<!-- Brand and toggle get grouped for better mobile display -->
-						<a class="navbar-brand logo_h" href="index"><img src="/resources/img/logo.png" alt=""></a>
+						<a class="navbar-brand logo_h" href="index"><img src="static/img/logo.png" alt=""></a>
 						<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 							<span class="icon-bar"></span>
 							<span class="icon-bar"></span>
@@ -95,7 +95,7 @@
 				<div class="col-lg-4 col-md-6">
 					<div class="single_causes">
 						<h4>Give Donation</h4>
-						<img src="/resources/img/causes/c1.png" alt="">
+						<img src="static/img/causes/c1.png" alt="">
 						<p>
 							It you're. Was called you're fowl grass lesser land together waters beast darkness earth land whose male all moveth fruitful.
 						</p>
@@ -104,7 +104,7 @@
 				<div class="col-lg-4 col-md-6">
 					<div class="single_causes">
 						<h4>Give Inspiration</h4>
-						<img src="/resources/img/causes/c2.png" alt="">
+						<img src="static/img/causes/c2.png" alt="">
 						<p>
 							It you're. Was called you're fowl grass lesser land together waters beast darkness earth land whose male all moveth fruitful.
 						</p>
@@ -113,7 +113,7 @@
 				<div class="col-lg-4 col-md-6">
 					<div class="single_causes">
 						<h4>Become Bolunteer</h4>
-						<img src="/resources/img/causes/c3.png" alt="">
+						<img src="static/img/causes/c3.png" alt="">
 						<p>
 							It you're. Was called you're fowl grass lesser land together waters beast darkness earth land whose male all moveth fruitful.
 						</p>
@@ -131,7 +131,7 @@
 				<div class="single_about row">
 					<div class="col-lg-6 col-md-12 text-center about_left">
 						<div class="about_thumb">
-							<img src="/resources/img/about-img.jpg" class="img-fluid" alt="">
+							<img src="static/img/about-img.jpg" class="img-fluid" alt="">
 						</div>
 					</div>
 					<div class="col-lg-6 col-md-12 about_right">
@@ -173,7 +173,7 @@
 					<div class="card">
 						<div class="card-body">
 							<figure>
-								<img class="card-img-top img-fluid" src="/resources/img/features/fc1.jpg" alt="Card image cap">
+								<img class="card-img-top img-fluid" src="static/img/features/fc1.jpg" alt="Card image cap">
 							</figure>
 							<div class="card_inner_body">
 								<h4 class="card-title">Education for every child</h4>
@@ -196,7 +196,7 @@
 					<div class="card">
 						<div class="card-body">
 							<figure>
-								<img class="card-img-top img-fluid" src="/resources/img/features/fc2.jpg" alt="Card image cap">
+								<img class="card-img-top img-fluid" src="static/img/features/fc2.jpg" alt="Card image cap">
 							</figure>
 							<div class="card_inner_body">
 								<h4 class="card-title">Feeding the hungry people</h4>
@@ -219,7 +219,7 @@
 					<div class="card">
 						<div class="card-body">
 							<figure>
-								<img class="card-img-top img-fluid" src="/resources/img/features/fc3.jpg" alt="Card image cap">
+								<img class="card-img-top img-fluid" src="static/img/features/fc3.jpg" alt="Card image cap">
 							</figure>
 							<div class="card_inner_body">
 								<h4 class="card-title">Providing cloth people</h4>
@@ -257,7 +257,7 @@
 						<div class="row align-items-center">
 							<div class="col-lg-6 col-md-6">
 								<figure>
-									<img class="img-fluid w-100" src="/resources/img/event/e1.jpg" alt="">
+									<img class="img-fluid w-100" src="static/img/event/e1.jpg" alt="">
 									<div class="img-overlay"></div>
 								</figure>
 							</div>
@@ -299,7 +299,7 @@
 						<div class="row align-items-center">
 							<div class="col-lg-6 col-md-6">
 								<figure>
-									<img class="img-fluid w-100" src="/resources/img/event/e2.jpg" alt="">
+									<img class="img-fluid w-100" src="static/img/event/e2.jpg" alt="">
 									<div class="img-overlay"></div>
 								</figure>
 							</div>
@@ -341,7 +341,7 @@
 						<div class="row align-items-center">
 							<div class="col-lg-6 col-md-6">
 								<figure>
-									<img class="img-fluid w-100" src="/resources/img/event/e3.jpg" alt="">
+									<img class="img-fluid w-100" src="static/img/event/e3.jpg" alt="">
 									<div class="img-overlay"></div>
 								</figure>
 							</div>
@@ -383,7 +383,7 @@
 						<div class="row align-items-center">
 							<div class="col-lg-6 col-md-6">
 								<figure>
-									<img class="img-fluid w-100" src="/resources/img/event/e4.jpg" alt="">
+									<img class="img-fluid w-100" src="static/img/event/e4.jpg" alt="">
 									<div class="img-overlay"></div>
 								</figure>
 							</div>
@@ -435,7 +435,7 @@
 				<div class="col-lg-3 col-md-6">
 					<div class="team_item">
 						<div class="team_img">
-							<img class="img-fluid" src="/resources/img/voluteer/v1.jpg" alt="">
+							<img class="img-fluid" src="static/img/voluteer/v1.jpg" alt="">
 						</div>
 						<div class="team_name">
 							<h4>Alea Mirslava</h4>
@@ -456,7 +456,7 @@
 				<div class="col-lg-3 col-md-6">
 					<div class="team_item">
 						<div class="team_img">
-							<img class="img-fluid" src="/resources/img/voluteer/v2.jpg" alt="">
+							<img class="img-fluid" src="static/img/voluteer/v2.jpg" alt="">
 						</div>
 						<div class="team_name">
 							<h4>Adam Virland</h4>
@@ -477,7 +477,7 @@
 				<div class="col-lg-3 col-md-6">
 					<div class="team_item">
 						<div class="team_img">
-							<img class="img-fluid" src="/resources/img/voluteer/v3.jpg" alt="">
+							<img class="img-fluid" src="static/img/voluteer/v3.jpg" alt="">
 						</div>
 						<div class="team_name">
 							<h4>Adam Virland</h4>
@@ -498,7 +498,7 @@
 				<div class="col-lg-3 col-md-6">
 					<div class="team_item">
 						<div class="team_img">
-							<img class="img-fluid" src="/resources/img/voluteer/v4.jpg" alt="">
+							<img class="img-fluid" src="static/img/voluteer/v4.jpg" alt="">
 						</div>
 						<div class="team_name">
 							<h4>Adam Virland</h4>
@@ -555,7 +555,7 @@
 				<div class="col-lg-4 col-md-6">
 					<div class="single-story">
 						<div class="story-thumb">
-							<img class="img-fluid" src="/resources/img/story/s1.jpg" alt="">
+							<img class="img-fluid" src="static/img/story/s1.jpg" alt="">
 						</div>
 						<div class="story-details">
 							<div class="story-meta">
@@ -582,7 +582,7 @@
 				<div class="col-lg-4 col-md-6">
 					<div class="single-story">
 						<div class="story-thumb">
-							<img class="img-fluid" src="/resources/img/story/s2.jpg" alt="">
+							<img class="img-fluid" src="static/img/story/s2.jpg" alt="">
 						</div>
 						<div class="story-details">
 							<div class="story-meta">
@@ -609,7 +609,7 @@
 				<div class="col-lg-4 col-md-6">
 					<div class="single-story">
 						<div class="story-thumb">
-							<img class="img-fluid" src="/resources/img/story/s3.jpg" alt="">
+							<img class="img-fluid" src="static/img/story/s3.jpg" alt="">
 						</div>
 						<div class="story-details">
 							<div class="story-meta">
@@ -693,12 +693,12 @@
 						<div class="single-footer-widget instafeed">
 							<h4 class="footer_title">Gallery</h6>
 							<ul class="list instafeed d-flex flex-wrap">
-								<li><img src="/resources/img/gallery/g1.jpg" alt=""></li>
-								<li><img src="/resources/img/gallery/g2.jpg" alt=""></li>
-								<li><img src="/resources/img/gallery/g3.jpg" alt=""></li>
-								<li><img src="/resources/img/gallery/g4.jpg" alt=""></li>
-								<li><img src="/resources/img/gallery/g5.jpg" alt=""></li>
-								<li><img src="/resources/img/gallery/g6.jpg" alt=""></li>
+								<li><img src="static/img/gallery/g1.jpg" alt=""></li>
+								<li><img src="static/img/gallery/g2.jpg" alt=""></li>
+								<li><img src="static/img/gallery/g3.jpg" alt=""></li>
+								<li><img src="static/img/gallery/g4.jpg" alt=""></li>
+								<li><img src="static/img/gallery/g5.jpg" alt=""></li>
+								<li><img src="static/img/gallery/g6.jpg" alt=""></li>
 							</ul>
 						</div>
 					</div>
@@ -742,18 +742,18 @@
 
 	<!-- Optional JavaScript -->
 	<!-- jQuery first, then Popper.js, then Bootstrap JS -->
-	<script src="/resources/js/jquery-3.2.1.min.js"></script>
-	<script src="/resources/js/popper.js"></script>
-	<script src="/resources/js/bootstrap.min.js"></script>
-	<script src="/resources/js/stellar.js"></script>
-	<script src="/resources/vendors/lightbox/simpleLightbox.min.js"></script>
-	<script src="/resources/vendors/nice-select/js/jquery.nice-select.min.js"></script>
-	<script src="/resources/js/jquery.ajaxchimp.min.js"></script>
-	<script src="/resources/js/mail-script.js"></script>
-	<script src="/resources/js/countdown.js"></script>
+	<script src="static/js/jquery-3.2.1.min.js"></script>
+	<script src="static/js/popper.js"></script>
+	<script src="static/js/bootstrap.min.js"></script>
+	<script src="static/js/stellar.js"></script>
+	<script src="static/vendors/lightbox/simpleLightbox.min.js"></script>
+	<script src="static/vendors/nice-select/js/jquery.nice-select.min.js"></script>
+	<script src="static/js/jquery.ajaxchimp.min.js"></script>
+	<script src="static/js/mail-script.js"></script>
+	<script src="static/js/countdown.js"></script>
 	<!--gmaps Js-->
 	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCjCGmQ0Uq4exrzdcL6rvxywDDOvfAu6eE"></script>
-	<script src="/resources/js/gmaps.min.js"></script>
-	<script src="/resources/js/theme.js"></script>
+	<script src="static/js/gmaps.min.js"></script>
+	<script src="static/js/theme.js"></script>
 </body>
 </html>

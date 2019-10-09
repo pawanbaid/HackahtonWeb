@@ -4,18 +4,18 @@
         <!-- Required meta tags -->
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <link rel="icon" href="/resources/img/favicon.png" type="image/png">
+        <link rel="icon" href="static/img/favicon.png" type="image/png">
         <title>Blog Details</title>
         <!-- Bootstrap CSS -->
-        <link rel="stylesheet" href="/resources/css/bootstrap.css">
-        <link rel="stylesheet" href="/resources/vendors/linericon/style.css">
-        <link rel="stylesheet" href="/resources/css/font-awesome.min.css">
-        <link rel="stylesheet" href="/resources/vendors/lightbox/simpleLightbox.css">
-        <link rel="stylesheet" href="/resources/vendors/nice-select/css/nice-select.css">
+        <link rel="stylesheet" href="static/css/bootstrap.css">
+        <link rel="stylesheet" href="static/vendors/linericon/style.css">
+        <link rel="stylesheet" href="static/css/font-awesome.min.css">
+        <link rel="stylesheet" href="static/vendors/lightbox/simpleLightbox.css">
+        <link rel="stylesheet" href="static/vendors/nice-select/css/nice-select.css">
         <!-- main css -->
-        <link rel="stylesheet" href="/resources/css/style.css">
-        <link rel="stylesheet" href="/resources/scss_compiled/style.css">
-        <link rel="stylesheet" href="/resources/css/responsive.css">
+        <link rel="stylesheet" href="static/css/style.css">
+        <link rel="stylesheet" href="static/scss_compiled/style.css">
+        <link rel="stylesheet" href="static/css/responsive.css">
     </head>
 <body>
         
@@ -26,7 +26,7 @@
                     <nav class="navbar navbar-expand-lg navbar-light">
                         <div class="container">
                             <!-- Brand and toggle get grouped for better mobile display -->
-                            <a class="navbar-brand logo_h" href="index"><img src="/resources/img/logo.png" alt=""></a>
+                            <a class="navbar-brand logo_h" href="index"><img src="static/img/logo.png" alt=""></a>
                             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                                 <span class="icon-bar"></span>
                                 <span class="icon-bar"></span>
@@ -85,7 +85,7 @@
                         <div class="single-post row">
                             <div class="col-lg-12">
                                 <div class="feature-img">
-                                    <img class="img-fluid" src="/resources/img/blog/feature-img1.jpg" alt="">
+                                    <img class="img-fluid" src="static/img/blog/feature-img1.jpg" alt="">
                                 </div>									
                             </div>
                             <div class="col-lg-3  col-md-3">
@@ -128,10 +128,10 @@
                                 </div>
                                 <div class="row">
                                     <div class="col-6">
-                                        <img class="img-fluid" src="/resources/img/blog/post-img1.jpg" alt="">
+                                        <img class="img-fluid" src="static/img/blog/post-img1.jpg" alt="">
                                     </div>
                                     <div class="col-6">
-                                        <img class="img-fluid" src="/resources/img/blog/post-img2.jpg" alt="">
+                                        <img class="img-fluid" src="static/img/blog/post-img2.jpg" alt="">
                                     </div>	
                                     <div class="col-lg-12 mt-25">
                                         <p>
@@ -148,7 +148,7 @@
                             <div class="row">
                                 <div class="col-lg-6 col-md-6 col-12 nav-left flex-row d-flex justify-content-start align-items-center">
                                     <div class="thumb">
-                                        <a href="#"><img class="img-fluid" src="/resources/img/blog/prev.jpg" alt=""></a>
+                                        <a href="#"><img class="img-fluid" src="static/img/blog/prev.jpg" alt=""></a>
                                     </div>
                                     <div class="arrow">
                                         <a href="#"><span class="lnr text-white lnr-arrow-left"></span></a>
@@ -167,7 +167,7 @@
                                         <a href="#"><span class="lnr text-white lnr-arrow-right"></span></a>
                                     </div>
                                     <div class="thumb">
-                                        <a href="#"><img class="img-fluid" src="/resources/img/blog/next.jpg" alt=""></a>
+                                        <a href="#"><img class="img-fluid" src="static/img/blog/next.jpg" alt=""></a>
                                     </div>										
                                 </div>									
                             </div>
@@ -178,7 +178,7 @@
                                 <div class="single-comment justify-content-between d-flex">
                                     <div class="user justify-content-between d-flex">
                                         <div class="thumb">
-                                            <img src="/resources/img/blog/c1.jpg" alt="">
+                                            <img src="static/img/blog/c1.jpg" alt="">
                                         </div>
                                         <div class="desc">
                                             <h5><a href="#">Emilly Blunt</a></h5>
@@ -197,7 +197,7 @@
                                 <div class="single-comment justify-content-between d-flex">
                                     <div class="user justify-content-between d-flex">
                                         <div class="thumb">
-                                            <img src="/resources/img/blog/c2.jpg" alt="">
+                                            <img src="static/img/blog/c2.jpg" alt="">
                                         </div>
                                         <div class="desc">
                                             <h5><a href="#">Elsie Cunningham</a></h5>
@@ -216,7 +216,7 @@
                                 <div class="single-comment justify-content-between d-flex">
                                     <div class="user justify-content-between d-flex">
                                         <div class="thumb">
-                                            <img src="/resources/img/blog/c3.jpg" alt="">
+                                            <img src="static/img/blog/c3.jpg" alt="">
                                         </div>
                                         <div class="desc">
                                             <h5><a href="#">Annie Stephens</a></h5>
@@ -235,7 +235,7 @@
                                 <div class="single-comment justify-content-between d-flex">
                                     <div class="user justify-content-between d-flex">
                                         <div class="thumb">
-                                            <img src="/resources/img/blog/c4.jpg" alt="">
+                                            <img src="static/img/blog/c4.jpg" alt="">
                                         </div>
                                         <div class="desc">
                                             <h5><a href="#">Maria Luna</a></h5>
@@ -254,7 +254,7 @@
                                 <div class="single-comment justify-content-between d-flex">
                                     <div class="user justify-content-between d-flex">
                                         <div class="thumb">
-                                            <img src="/resources/img/blog/c5.jpg" alt="">
+                                            <img src="static/img/blog/c5.jpg" alt="">
                                         </div>
                                         <div class="desc">
                                             <h5><a href="#">Ina Hayes</a></h5>
@@ -303,7 +303,7 @@
                                 <div class="br"></div>
                             </aside>
                             <aside class="single_sidebar_widget author_widget">
-                                <img class="author_img rounded-circle" src="/resources/img/blog/author.png" alt="">
+                                <img class="author_img rounded-circle" src="static/img/blog/author.png" alt="">
                                 <h4>Charlie Barber</h4>
                                 <p>Senior blog writer</p>
                                 <div class="social_icon">
@@ -318,28 +318,28 @@
                             <aside class="single_sidebar_widget popular_post_widget">
                                 <h3 class="widget_title">Popular Posts</h3>
                                 <div class="media post_item">
-                                    <img src="/resources/img/blog/popular-post/post1.jpg" alt="post">
+                                    <img src="static/img/blog/popular-post/post1.jpg" alt="post">
                                     <div class="media-body">
                                         <a href="single-blog"><h3>Space The Final Frontier</h3></a>
                                         <p>02 Hours ago</p>
                                     </div>
                                 </div>
                                 <div class="media post_item">
-                                    <img src="/resources/img/blog/popular-post/post2.jpg" alt="post">
+                                    <img src="static/img/blog/popular-post/post2.jpg" alt="post">
                                     <div class="media-body">
                                         <a href="single-blog"><h3>The Amazing Hubble</h3></a>
                                         <p>02 Hours ago</p>
                                     </div>
                                 </div>
                                 <div class="media post_item">
-                                    <img src="/resources/img/blog/popular-post/post3.jpg" alt="post">
+                                    <img src="static/img/blog/popular-post/post3.jpg" alt="post">
                                     <div class="media-body">
                                         <a href="single-blog"><h3>Astronomy Or Astrology</h3></a>
                                         <p>03 Hours ago</p>
                                     </div>
                                 </div>
                                 <div class="media post_item">
-                                    <img src="/resources/img/blog/popular-post/post4.jpg" alt="post">
+                                    <img src="static/img/blog/popular-post/post4.jpg" alt="post">
                                     <div class="media-body">
                                         <a href="single-blog"><h3>Asteroids telescope</h3></a>
                                         <p>01 Hours ago</p>
@@ -348,7 +348,7 @@
                                 <div class="br"></div>
                             </aside>
                             <aside class="single_sidebar_widget ads_widget">
-                                <a href="#"><img class="img-fluid" src="/resources/img/blog/add.jpg" alt=""></a>
+                                <a href="#"><img class="img-fluid" src="static/img/blog/add.jpg" alt=""></a>
                                 <div class="br"></div>
                             </aside>
                             <aside class="single_sidebar_widget post_category_widget">
@@ -475,12 +475,12 @@
                             <div class="single-footer-widget instafeed">
                                 <h4 class="footer_title">Gallery</h6>
                                 <ul class="list instafeed d-flex flex-wrap">
-                                    <li><img src="/resources/img/gallery/g1.jpg" alt=""></li>
-                                    <li><img src="/resources/img/gallery/g2.jpg" alt=""></li>
-                                    <li><img src="/resources/img/gallery/g3.jpg" alt=""></li>
-                                    <li><img src="/resources/img/gallery/g4.jpg" alt=""></li>
-                                    <li><img src="/resources/img/gallery/g5.jpg" alt=""></li>
-                                    <li><img src="/resources/img/gallery/g6.jpg" alt=""></li>
+                                    <li><img src="static/img/gallery/g1.jpg" alt=""></li>
+                                    <li><img src="static/img/gallery/g2.jpg" alt=""></li>
+                                    <li><img src="static/img/gallery/g3.jpg" alt=""></li>
+                                    <li><img src="static/img/gallery/g4.jpg" alt=""></li>
+                                    <li><img src="static/img/gallery/g5.jpg" alt=""></li>
+                                    <li><img src="static/img/gallery/g6.jpg" alt=""></li>
                                 </ul>
                             </div>
                         </div>
@@ -526,14 +526,14 @@
         
         <!-- Optional JavaScript -->
         <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-        <script src="/resources/js/jquery-3.2.1.min.js"></script>
-        <script src="/resources/js/popper.js"></script>
-        <script src="/resources/js/bootstrap.min.js"></script>
-        <script src="/resources/js/stellar.js"></script>
-        <script src="/resources/vendors/lightbox/simpleLightbox.min.js"></script>
-        <script src="/resources/vendors/nice-select/js/jquery.nice-select.min.js"></script>
-        <script src="/resources/js/jquery.ajaxchimp.min.js"></script>
-        <script src="/resources/js/mail-script.js"></script>
-        <script src="/resources/js/theme.js"></script>
+        <script src="static/js/jquery-3.2.1.min.js"></script>
+        <script src="static/js/popper.js"></script>
+        <script src="static/js/bootstrap.min.js"></script>
+        <script src="static/js/stellar.js"></script>
+        <script src="static/vendors/lightbox/simpleLightbox.min.js"></script>
+        <script src="static/vendors/nice-select/js/jquery.nice-select.min.js"></script>
+        <script src="static/js/jquery.ajaxchimp.min.js"></script>
+        <script src="static/js/mail-script.js"></script>
+        <script src="static/js/theme.js"></script>
     </body>
 </html>
